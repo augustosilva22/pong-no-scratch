@@ -1,1 +1,1 @@
-# pong-no-scratch
+# pong
